@@ -1,6 +1,10 @@
 # AWS Three-Tier Architecture Deployment with Terraform  
-
-## Overview  
+# Brief Overview
+Infrastructure as Code (IaC) Deployment Project
+- ✅ Deploy a 3-tier architecture (Frontend, Backend, Database) on AWS & Azure
+- ✅ Use Terraform to automate provisioning & scaling
+- ✅ Set up IAM roles, security groups, Auto Scaling, Load Balancer
+## Detailed Overview  
 This project deploys a **three-tier architecture** on AWS using **Terraform** for Infrastructure as Code (IaC). The setup includes:  
 
 - **VPC with public/private subnets**  
